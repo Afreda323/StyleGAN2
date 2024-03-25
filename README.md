@@ -1,2 +1,2 @@
 # StyleGAN2
-foo 
+foo2 
